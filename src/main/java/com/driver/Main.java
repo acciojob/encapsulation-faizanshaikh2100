@@ -5,6 +5,7 @@ public class Main {
         RWOnly rwonly= new RWOnly();
         rwonly.setName("Faizan");
         rwonly.getName();
+        
     }
   
 }
